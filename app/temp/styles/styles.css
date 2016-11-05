@@ -1,0 +1,14 @@
+body {
+	background:#fff; 
+	color:#2f5572;
+	margin: 25px;
+	padding:20px;
+	-webkit-columns:300px 2;
+	   -moz-columns:300px 2;
+	        columns:300px 2;
+}
+
+.box li {
+	font-size: 25px;
+	padding-left: 10px;
+}
