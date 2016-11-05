@@ -1,17 +1,5 @@
-$mainBlue: #2f5572;
-$backgroundClr: #fff;
+@import "normalize.css";
+@import "base/_global";
+@import "modules/_large-hero";
 
-body {
-	background:$backgroundClr; 
-	color:$mainBlue;
-	margin: 25px;
-	padding:20px;
-	columns:300px 2;
-}
 
-.box {
-	li {
-		font-size: 25px;
-		padding-left: 10px;
-	}
-}
